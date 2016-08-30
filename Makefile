@@ -16,6 +16,12 @@ glossary-pt-docx-to-md:
 glossary-pt-md-to-docx:
 	pandoc $(MD_TO_DOCX) ./markdown/dhamma-glossary-PT.md -o dhamma-glossary-PT.docx
 
+glossary-it-docx-to-md:
+	pandoc $(DOCX_TO_MD) dhamma-glossary-IT.docx > ./markdown/dhamma-glossary-IT.md
+
+glossary-it-md-to-docx:
+	pandoc $(MD_TO_DOCX) ./markdown/dhamma-glossary-IT.md -o dhamma-glossary-IT.docx
+
 pali-docx-to-md:
 	pandoc $(DOCX_TO_MD) pali-spelling.docx > ./markdown/pali-spelling.md
 
