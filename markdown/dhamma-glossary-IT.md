@@ -5,7 +5,7 @@ Glossario del Dhamma
 
 -   [dhamma-glossary-EN.docx](https://github.com/profound-labs/manuscript-reference/blob/master/dhamma-glossary-IT.docx)
 
-[A](#ā) [Ā](#Ā) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#ñ) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [Y](#y) [Z](#z)
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#ñ) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [Y](#y) [Z](#z)
 
 ### A
 
@@ -451,7 +451,6 @@ La cessazione di dukkha; la Terza Nobile Verità
 
 (Tibetano) letteralmente “la grande perfezione naturale”, “grande picco”, “grande vetta”; corrisponde al termine sanscrito mahā-ati
 
-
 ### E
 
 #### Ekaggatā
@@ -780,6 +779,7 @@ Nobili Verità → *ariya-sacca*.
 #### Nyingmapa
 
 (Tibetano) letteralmente “gli Antichi”; la più vecchia scuola del buddhismo tibetano, coloro che conservano e trasmettono gli insegnamenti dello Dzogchen
+
 ### O
 
 #### Ogha
