@@ -156,6 +156,7 @@ samaṇa
 samaṇa
 sāmaṇera
 saṃsāra
+sīladhāra
 Mahāyāna
 Hīnayāna
 vipassanā
