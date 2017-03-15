@@ -17,7 +17,15 @@ ariya-sacca
 dukkha
 dukkha-samudayo
 dukkha-nirodho
-dukkha-nirodha-gāminī paṭipadā
+dukkha-nirodha-gāminī-paṭipadā
+
+### 5 khandhas
+
+rūpa
+vedanā
+saññā
+saṅkhāra
+viññāṇa
 
 ### 12 links of dependent origination
 
@@ -61,14 +69,6 @@ sati
 samādhi
 paññā
 
-### 5 khandhas
-
-rūpa
-vedanā
-saññā
-saṅkhāra
-viññāṇa
-
 ### 6 senses
 
 cakkhu
@@ -86,7 +86,7 @@ nakhā
 dantā
 taco
 
-### 7 factors
+### 7 factors of enlightenment
 
 bojjhaṅga
 
@@ -114,7 +114,7 @@ karuṇa
 mudita
 upekkha
 
-### 8 Path Factors
+### 8 factors of the path
 
 Divisions of the Path:
 
@@ -128,8 +128,15 @@ bhāvanā
 
 Factors of the Path:
 
-sammā-sati
-sammā-samādhi
+sammā-...
+-diṭṭhi
+-saṅkappa
+-vācā
+-ājīva
+-kammanta
+-vāyāma
+-sati
+-samādhi
 
 ### Tipitaka
 
