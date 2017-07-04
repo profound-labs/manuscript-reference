@@ -7,8 +7,8 @@ Pali Spelling
 
 ### Accents
 
-ā ī ū ṃ ṅ ñ ṭ ḍ ṇ ḷ
-Ā Ī Ū Ṃ Ṅ Ñ Ṭ Ḍ Ṇ Ḷ
+ā ī ū ṃ ṁ ṅ ñ ṭ ḍ ṇ ḷ
+Ā Ī Ū Ṃ Ṁ Ṅ Ñ Ṭ Ḍ Ṇ Ḷ
 
 ### 4 Noble Truths
 
@@ -144,6 +144,7 @@ Dhammapada
 
 ### Other
 
+ahiṁsa
 akāliko
 anagārika
 sampajañña
