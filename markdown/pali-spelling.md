@@ -153,6 +153,9 @@ adhiṭṭhāna
 añjali
 bhikkhunī
 diṭṭhi
+Dhammasavaṇa
+Dhammasākacchā
+indriya saṃvara
 kalyāṇamitta
 kuṭī
 mahā
