@@ -138,7 +138,7 @@ sammā-...
 -sati
 -samādhi
 
-### Tipitaka
+### Tipiṭaka
 
 Dhammapada
 
@@ -158,6 +158,7 @@ Dhammasākacchā
 indriya saṃvara
 kalyāṇamitta
 kuṭī
+lokavidū
 mahā
 Māra
 micchādiṭṭhi
@@ -172,3 +173,5 @@ Mahāyāna
 Hīnayāna
 vipassanā
 pāṭimokkha
+saṃyutta
+ñāṇadassana
