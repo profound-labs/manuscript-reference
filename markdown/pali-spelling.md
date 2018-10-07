@@ -175,3 +175,4 @@ vipassanā
 pāṭimokkha
 saṃyutta
 ñāṇadassana
+nibbidā
