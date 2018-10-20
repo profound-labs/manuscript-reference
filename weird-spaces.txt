@@ -15,3 +15,10 @@
 ﻿
 # interlinear annotation anchor, 0xFFF9
 ￹
+# soft hyphen U+00AD
+­
+# something
+
+# also something but can't isolate
+#   
+# 
