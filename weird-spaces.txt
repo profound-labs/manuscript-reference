@@ -17,6 +17,8 @@
 ￹
 # soft hyphen U+00AD
 ­
+# some other hyphen
+‑
 # something
 
 # also something but can't isolate
