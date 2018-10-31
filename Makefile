@@ -1,5 +1,5 @@
-MD_TO_DOCX=-f markdown_github -t docx --smart
-DOCX_TO_MD=-f docx -t markdown_github
+MD_TO_DOCX=-f markdown_github+smart -t docx
+DOCX_TO_MD=-f docx -t markdown_github+smart
 
 # TODO pandoc's markdown_github doesn't wrap lines, and "fold -w 80 -s" breaks
 # links and doesn't count unicode letters the same way as emacs
