@@ -1,0 +1,37 @@
+#+Title: Hex Unicode Pali
+#+Startup: align
+#+Startup: shink
+
+* [[https://en.wikipedia.org/wiki/Latin_Extended-A][Latin Extended-A]]
+
+| Code(hex) | Grapheme | Name                               |
+|-----------+----------+------------------------------------|
+|           |          | <10>                               |
+| U+0100    | Ā        | Latin Capital letter A with macro  |
+| U+0101    | ā        | Latin Capital letter A with macro  |
+| U+012A    | Ī        | Latin Capital letter I with macron |
+| U+012B    | ī        | Latin Small letter I with macron   |
+| U+016A    | Ū        | Latin Capital letter U with macron |
+| U+016B    | ū        | Latin Small letter U with macron   |
+| U+014A    | Ŋ        | Latin Capital letter Eng           |
+| U+014b    | ŋ        | Latin Small letter Eng             |
+|-----------+----------+------------------------------------|
+
+* [[https://en.wikipedia.org/wiki/Latin_Extended_Additional][Latin Extended Additional]]
+  
+| Code(hex) | Grapheme | Name                                  |
+|-----------+----------+---------------------------------------|
+|           |          |                <10>                   |
+| U+1E36    | Ḷ        | Latin Capital Letter L with dot below |
+| U+1E37    | ḷ        | Latin Small Letter L with dot below   |
+| U+1E40    | Ṁ        | Latin Capital Letter M with dot above |
+| U+1E41    | ṁ        | Latin Small Letter M with dot above   |
+| U+1E42    | Ṃ        | Latin Capital Letter M with dot below |
+| U+1E43    | ṃ        | Latin Small Letter M with dot below   |
+| U+1E44    | Ṅ        | Latin Capital Letter N with dot above |
+| U+1E45    | ṅ        | Latin Small Letter N with dot above   |
+| U+1E46    | Ṇ        | Latin Capital Letter N with dot below |
+| U+1E47    | ṇ        | Latin Small Letter N with dot below   |
+| U+1E6C    | Ṭ        | Latin Capital Letter T with dot below |
+| U+1E6D    | ṭ        | Latin Small Letter T with dot below   |
+|-----------+----------+---------------------------------------|

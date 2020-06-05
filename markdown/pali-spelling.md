@@ -165,7 +165,6 @@ micchādiṭṭhi
 nibbāna
 nikāya
 samaṇa
-samaṇa
 sāmaṇera
 saṃsāra
 sīladhāra
@@ -176,3 +175,12 @@ pāṭimokkha
 saṃyutta
 ñāṇadassana
 nibbidā
+asaṅkhata
+saṅkhata
+dukkaṭa
+vīmaṃsā
+saṃyojana
+tilakkhaṇa
+iddhipāda
+indriyasaṃvara
+vaṭṭa
