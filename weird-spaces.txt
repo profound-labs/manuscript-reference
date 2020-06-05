@@ -1,4 +1,6 @@
 # NOTE: Edit in nvim. It displays unknown unicode as codepoints. To add, enter Insert mode, hit Ctrl+V and type u00a0.
+# tab U+0009
+	
 # no-break space U+00A0 
  
 # en quad U+2000
